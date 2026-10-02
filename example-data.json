@@ -1,0 +1,473 @@
+{
+  "app": "Trading Dashboard",
+  "version": 2,
+  "exportiert": "2026-09-30",
+  "trades": [
+    {
+      "datum": "2026-02-04",
+      "typ": "Kauf",
+      "asset": "Vanguard S&P 500 ETF",
+      "ticker": "VOO",
+      "klasse": "ETF",
+      "stueck": 6,
+      "kurs": 430,
+      "gebuehr": 1,
+      "gesamt": 2581,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-02-10",
+      "typ": "Kauf",
+      "asset": "Apple",
+      "ticker": "AAPL",
+      "klasse": "Aktie",
+      "stueck": 8,
+      "kurs": 182,
+      "gebuehr": 1,
+      "gesamt": 1457,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-03-09",
+      "typ": "Kauf",
+      "asset": "Nvidia",
+      "ticker": "NVDA",
+      "klasse": "Aktie",
+      "stueck": 15,
+      "kurs": 112,
+      "gebuehr": 1,
+      "gesamt": 1681,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-03-24",
+      "typ": "Kauf",
+      "asset": "Bitcoin",
+      "ticker": "BTC",
+      "klasse": "Krypto",
+      "stueck": 0.02,
+      "kurs": 58500,
+      "gebuehr": 1,
+      "gesamt": 1171,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-04-13",
+      "typ": "Kauf",
+      "asset": "AMD",
+      "ticker": "AMD",
+      "klasse": "Aktie",
+      "stueck": 5,
+      "kurs": 95,
+      "gebuehr": 1,
+      "gesamt": 476,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-05-31",
+      "typ": "Kauf",
+      "asset": "Ethereum",
+      "ticker": "ETH",
+      "klasse": "Krypto",
+      "stueck": 0.8,
+      "kurs": 2620,
+      "gebuehr": 1,
+      "gesamt": 2097,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-07-04",
+      "typ": "Verkauf",
+      "asset": "Nvidia",
+      "ticker": "NVDA",
+      "klasse": "Aktie",
+      "stueck": 5,
+      "kurs": 151,
+      "gebuehr": 1,
+      "gesamt": 754,
+      "realGV": null,
+      "notiz": "Teilgewinn mitgenommen"
+    },
+    {
+      "datum": "2026-07-12",
+      "typ": "Kauf",
+      "asset": "Coinbase",
+      "ticker": "COIN",
+      "klasse": "Aktie",
+      "stueck": 2,
+      "kurs": 260,
+      "gebuehr": 1,
+      "gesamt": 521,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-07-22",
+      "typ": "Verkauf",
+      "asset": "AMD",
+      "ticker": "AMD",
+      "klasse": "Aktie",
+      "stueck": 5,
+      "kurs": 128,
+      "gebuehr": 1,
+      "gesamt": 639,
+      "realGV": null,
+      "notiz": "Ziel erreicht, komplett verkauft"
+    },
+    {
+      "datum": "2026-08-15",
+      "typ": "Kauf",
+      "asset": "Solana",
+      "ticker": "SOL",
+      "klasse": "Krypto",
+      "stueck": 6,
+      "kurs": 121,
+      "gebuehr": 1,
+      "gesamt": 727,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-08-21",
+      "typ": "Verkauf",
+      "asset": "Coinbase",
+      "ticker": "COIN",
+      "klasse": "Aktie",
+      "stueck": 2,
+      "kurs": 215,
+      "gebuehr": 1,
+      "gesamt": 429,
+      "realGV": null,
+      "notiz": "Stop-Loss gezogen"
+    },
+    {
+      "datum": "2026-08-30",
+      "typ": "Kauf",
+      "asset": "Microsoft",
+      "ticker": "MSFT",
+      "klasse": "Aktie",
+      "stueck": 3,
+      "kurs": 382,
+      "gebuehr": 1,
+      "gesamt": 1147,
+      "realGV": null,
+      "notiz": ""
+    },
+    {
+      "datum": "2026-09-18",
+      "typ": "Kauf",
+      "asset": "Tesla Long KO",
+      "ticker": "TSLA",
+      "klasse": "Derivat",
+      "stueck": 100,
+      "kurs": 1.8,
+      "gebuehr": 1,
+      "gesamt": 181,
+      "realGV": null,
+      "notiz": "Knock-out Long · Hebel 4,2"
+    }
+  ],
+  "kurse": {
+    "AMD": 140,
+    "Coinbase": 230,
+    "Vanguard S&P 500 ETF": 505,
+    "Apple": 214,
+    "Nvidia": 168,
+    "Bitcoin": 71500,
+    "Ethereum": 2380,
+    "Solana": 108,
+    "Microsoft": 418,
+    "Tesla Long KO": 2.35
+  },
+  "kursStand": "2026-09-30",
+  "snapshots": [
+    {
+      "datum": "2026-02-02",
+      "wert": 0,
+      "cash": 8000
+    },
+    {
+      "datum": "2026-02-09",
+      "wert": 2552.2,
+      "cash": 5419
+    },
+    {
+      "datum": "2026-02-16",
+      "wert": 4113.95,
+      "cash": 3962
+    },
+    {
+      "datum": "2026-02-23",
+      "wert": 4151.51,
+      "cash": 3962
+    },
+    {
+      "datum": "2026-03-02",
+      "wert": 4055.1,
+      "cash": 3962
+    },
+    {
+      "datum": "2026-03-09",
+      "wert": 5727.4,
+      "cash": 2281
+    },
+    {
+      "datum": "2026-03-16",
+      "wert": 5691.53,
+      "cash": 2281
+    },
+    {
+      "datum": "2026-03-23",
+      "wert": 5814.75,
+      "cash": 2281
+    },
+    {
+      "datum": "2026-03-30",
+      "wert": 6821.41,
+      "cash": 1110
+    },
+    {
+      "datum": "2026-04-06",
+      "wert": 6930.3,
+      "cash": 1110
+    },
+    {
+      "datum": "2026-04-13",
+      "wert": 7301.04,
+      "cash": 634
+    },
+    {
+      "datum": "2026-04-20",
+      "wert": 7228.04,
+      "cash": 634
+    },
+    {
+      "datum": "2026-04-27",
+      "wert": 7370.87,
+      "cash": 634
+    },
+    {
+      "datum": "2026-05-04",
+      "wert": 7379.56,
+      "cash": 2134
+    },
+    {
+      "datum": "2026-05-11",
+      "wert": 7578.86,
+      "cash": 2134
+    },
+    {
+      "datum": "2026-05-18",
+      "wert": 7644.41,
+      "cash": 2134
+    },
+    {
+      "datum": "2026-05-25",
+      "wert": 7847.22,
+      "cash": 2134
+    },
+    {
+      "datum": "2026-06-01",
+      "wert": 9966.56,
+      "cash": 37
+    },
+    {
+      "datum": "2026-06-08",
+      "wert": 10019.26,
+      "cash": 37
+    },
+    {
+      "datum": "2026-06-15",
+      "wert": 10069.87,
+      "cash": 37
+    },
+    {
+      "datum": "2026-06-22",
+      "wert": 10130.04,
+      "cash": 37
+    },
+    {
+      "datum": "2026-06-29",
+      "wert": 10046.15,
+      "cash": 37
+    },
+    {
+      "datum": "2026-07-06",
+      "wert": 9235.25,
+      "cash": 791
+    },
+    {
+      "datum": "2026-07-13",
+      "wert": 9691.16,
+      "cash": 270
+    },
+    {
+      "datum": "2026-07-20",
+      "wert": 9968.71,
+      "cash": 270
+    },
+    {
+      "datum": "2026-07-27",
+      "wert": 9549.62,
+      "cash": 909
+    },
+    {
+      "datum": "2026-08-03",
+      "wert": 9419.91,
+      "cash": 1909
+    },
+    {
+      "datum": "2026-08-10",
+      "wert": 9699.93,
+      "cash": 1909
+    },
+    {
+      "datum": "2026-08-17",
+      "wert": 10658.58,
+      "cash": 1182
+    },
+    {
+      "datum": "2026-08-24",
+      "wert": 10355.76,
+      "cash": 1611
+    },
+    {
+      "datum": "2026-08-31",
+      "wert": 11557.87,
+      "cash": 464
+    },
+    {
+      "datum": "2026-09-07",
+      "wert": 11498.54,
+      "cash": 464
+    },
+    {
+      "datum": "2026-09-14",
+      "wert": 11783.67,
+      "cash": 964
+    },
+    {
+      "datum": "2026-09-21",
+      "wert": 11742.3,
+      "cash": 783
+    },
+    {
+      "datum": "2026-09-28",
+      "wert": 11934.29,
+      "cash": 783
+    },
+    {
+      "datum": "2026-09-29",
+      "wert": 11781.87,
+      "cash": 783
+    }
+  ],
+  "monatsziel": 400,
+  "milestones": [
+    {
+      "wert": 5000,
+      "deadline": null
+    },
+    {
+      "wert": 10000,
+      "deadline": null
+    },
+    {
+      "wert": 15000,
+      "deadline": null
+    },
+    {
+      "wert": 25000,
+      "deadline": null
+    }
+  ],
+  "kasse": [
+    {
+      "datum": "2026-02-02",
+      "betrag": 8000,
+      "art": "Einzahlung"
+    },
+    {
+      "datum": "2026-05-03",
+      "betrag": 1500,
+      "art": "Einzahlung"
+    },
+    {
+      "datum": "2026-08-01",
+      "betrag": 1000,
+      "art": "Einzahlung"
+    },
+    {
+      "datum": "2026-09-10",
+      "betrag": 500,
+      "art": "Einzahlung"
+    }
+  ],
+  "spar": {
+    "ziel": 15000,
+    "zieldatum": "2026-12-31",
+    "startTR": 0,
+    "startKonto": 2000,
+    "splitTR": 80
+  },
+  "meta": {
+    "Vanguard S&P 500 ETF": {
+      "emoji": "",
+      "branche": "ETF · USA"
+    },
+    "Apple": {
+      "emoji": "",
+      "branche": "Technologie"
+    },
+    "Nvidia": {
+      "emoji": "",
+      "branche": "Halbleiter"
+    },
+    "AMD": {
+      "emoji": "",
+      "branche": "Halbleiter"
+    },
+    "Coinbase": {
+      "emoji": "",
+      "branche": "Krypto-Börse"
+    },
+    "Microsoft": {
+      "emoji": "",
+      "branche": "Software & Cloud"
+    },
+    "Bitcoin": {
+      "emoji": "",
+      "branche": "Krypto"
+    },
+    "Ethereum": {
+      "emoji": "",
+      "branche": "Krypto"
+    },
+    "Solana": {
+      "emoji": "",
+      "branche": "Krypto"
+    },
+    "Tesla Long KO": {
+      "emoji": "",
+      "branche": "Knock-out Long · Tesla"
+    }
+  },
+  "derivate": {
+    "Tesla Long KO": {
+      "basis": "Tesla",
+      "basisTicker": "TSLA",
+      "richtung": "long",
+      "schwelle": 205,
+      "waehrung": "USD",
+      "bezug": 0.1,
+      "hebelKauf": 4.2
+    }
+  },
+  "waehrung": "EUR"
+}
