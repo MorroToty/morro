@@ -4,7 +4,7 @@
 
 Morro is a personal portfolio and trading dashboard that runs entirely in your browser. No account, no server, no install: open the website and start tracking your trades. All data stays on your device.
 
-**Free during the beta** – no account, no ads. Free to use, but not open source: see [License](#license).
+**Free to use** – no account, no ads. Not open source: see [License](#license).
 
 **English · Deutsch** (switch in the app) · **€ / $ / CHF / £** · **Tax rules for Germany, Austria and Switzerland** (or none)
 
@@ -109,7 +109,7 @@ The interface is written in German; English comes from a built-in dictionary. Fo
 
 ## Support
 
-Morro is free during the beta. Paid features may be added later – that will be announced in advance, and your data always stays in your browser and can be exported. If Morro helps you and you want to say thanks, you can [support it on GitHub Sponsors](https://github.com/sponsors/MorroToty) – completely optional.
+Morro is a free private project. If Morro helps you and you want to say thanks, you can [support it on GitHub Sponsors](https://github.com/sponsors/MorroToty) – completely optional.
 
 ## Disclaimer
 
@@ -137,16 +137,15 @@ In the app: footer → “Security & data”, or the lock button in the tour.
 
 Third-party components (Chart.js, Tesseract.js) keep their own licenses – see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-**Deutsch:** In der Beta kostenlos nutzbar, privat und für deine eigenen Trades. Kopieren, Weiterverbreiten, veränderte Versionen veröffentlichen und Verkaufen sind ohne Erlaubnis nicht gestattet. Keine Anlage-, Steuer- oder Rechtsberatung.
+**Deutsch:** Kostenlos nutzbar, privat und für deine eigenen Trades. Kopieren, Weiterverbreiten, veränderte Versionen veröffentlichen und Verkaufen sind ohne Erlaubnis nicht gestattet. Keine Anlage-, Steuer- oder Rechtsberatung.
 
-## Legal notice & privacy
+## Privacy policy
 
-- [Impressum (legal notice)](impressum.html)
 - [Datenschutzerklärung (privacy policy)](datenschutz.html)
 
 ## Deutsch
 
-Morro ist ein persönliches Depot- und Trading-Dashboard, das komplett im Browser läuft: kein Konto, kein Server, nichts installieren. Website öffnen und loslegen. Alle Daten bleiben auf deinem Gerät. **In der Beta kostenlos.**
+Morro ist ein persönliches Depot- und Trading-Dashboard, das komplett im Browser läuft: kein Konto, kein Server, nichts installieren. Website öffnen und loslegen. Alle Daten bleiben auf deinem Gerät. **Kostenlos.**
 
 - **Ausprobieren:** `index.html#demo` öffnet ein Beispieldepot, deine eigenen Daten bleiben unberührt.
 - **Erster Start:** Morro öffnet mit einem **Musterdepot** und einer **Tour** von etwa drei Minuten. Danach entweder weiter umsehen oder „Eigene Trades erfassen“: Musterdaten weg, Sprache und Land wählen, optional Passwort, dann öffnet sich der Import. Ändern lässt sich alles später unter **Einstellungen** – dort auch der Hintergrund (Regenbogen, Blau-Weiß, Sonnenuntergang, Nordlicht, Lila, Einfarbig oder Aus).
@@ -159,4 +158,4 @@ Morro ist ein persönliches Depot- und Trading-Dashboard, das komplett im Browse
 - **Live-Kurse:** Krypto läuft ohne Schlüssel. Für Aktien einen kostenlosen Schlüssel bei [finnhub.io](https://finnhub.io) holen und im Live-Fenster eintragen.
 - **Sicherung:** Die Daten liegen im Browser-Speicher. Regelmäßig unter *Daten → Sicherung* exportieren.
 - **Steuern:** Deutschland, Österreich, Schweiz oder aus. Grobe Orientierung, keine Steuerberatung.
-- **Rechtliches:** [Impressum](impressum.html) · [Datenschutzerklärung](datenschutz.html) · [Lizenz](LICENSE)
+- **Rechtliches:** [Datenschutzerklärung](datenschutz.html) · [Lizenz](LICENSE)
