@@ -4,9 +4,17 @@ Morro uses the following third-party components. Each is subject to its own lice
 
 ## Chart.js
 
-Loaded from cdnjs at runtime (version 4.4.1) – https://www.chartjs.org
+Embedded in index.html (version 4.4.1) – https://www.chartjs.org
 
 MIT License – Copyright (c) Chart.js Contributors
+
+## TradingView Lightweight Charts™
+
+Embedded in index.html (version 4.2.3) for the live charts in the Charts tab – https://github.com/tradingview/lightweight-charts
+
+Apache License 2.0 – Copyright (c) 2025 TradingView, Inc.
+
+NOTICE: TradingView Lightweight Charts™ Copyright (с) 2025 TradingView, Inc. https://www.tradingview.com/
 
 ## Tesseract.js
 
@@ -31,6 +39,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Apache License 2.0 (Tesseract.js)
+### Apache License 2.0 (Lightweight Charts, Tesseract.js)
 
 Full text: https://www.apache.org/licenses/LICENSE-2.0

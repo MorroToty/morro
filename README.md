@@ -15,6 +15,7 @@ Morro is a personal portfolio and trading dashboard that runs entirely in your b
 ## Features
 
 - **My dashboard** – build your own start page from tiles of every section: net worth, history, top positions, allocation, recent activity, goals, journal today, trading stats, open leveraged trades, paper trading, events, trading hours, market sentiment, scanner setups, alerts, taxes and a free note. Tap *Edit* to add or remove tiles, drag them by the handle to another spot and pull the bottom-right corner to make them bigger or smaller (1–4 columns, 1–3 rows). Works with mouse and touch; the layout is saved in your browser.
+- **Charts** – live candles straight from Bybit (every trade, via WebSocket; Coinbase as fallback) from 1 minute to 1 week, with a favorites list (plus the coins the scanner currently flags), your own candle colors, grid and background (light beam that turns green or red with the market, your own image/GIF/video, or a plain color). Draw long/short boxes with entry, target and stop – profit, loss and reward-to-risk in % and $ – and horizontal lines; everything is saved. Open journal trades appear as boxes automatically. Charting by TradingView Lightweight Charts™.
 - **Overview** – net worth, profit, cash, next goal and a history chart. Switch between amounts and time-weighted return (%), optionally compared with the S&P 500.
 - **Portfolio** – all positions with logos, weights and P/L. Tap a position for a live price, a chart (1 minute to 5 years), your thesis and exit plan, and the trades behind it.
 - **Share images** – one tap on the gradient button in the header (or the card in *Portfolio*) creates a result card for any open or closed position, or a **collage** of up to 8 trades on one image, each with its own percentage (two designs, custom backgrounds, English/German, percent-only mode, “call by …” shoutout sticker). Every card carries Kerzi – leaning on the Morro name with sunglasses and a fan of cash (the classic logo if Kerzi is switched off) – and a QR code that leads to this repository.
@@ -135,7 +136,7 @@ In the app: footer → “Security & data”, or the lock button in the tour.
 - **Not allowed without permission:** copying or publishing the code or the app elsewhere, publishing modified versions, selling it or building your own product on it, removing the name or logo.
 - No investment, tax or legal advice; provided as is.
 
-Third-party components (Chart.js, Tesseract.js) keep their own licenses – see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+Third-party components (Chart.js, TradingView Lightweight Charts, Tesseract.js) keep their own licenses – see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 **Deutsch:** Kostenlos nutzbar, privat und für deine eigenen Trades. Kopieren, Weiterverbreiten, veränderte Versionen veröffentlichen und Verkaufen sind ohne Erlaubnis nicht gestattet. Keine Anlage-, Steuer- oder Rechtsberatung.
 
